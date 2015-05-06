@@ -18,6 +18,8 @@
   <project path="system/core" name="system_core" groups="pdk" remote="philippe12" revision="kitkat" />
   <project path="frameworks/base" name="frameworks_base" remote="philippe12" revision="kitkat" />
   <project path="packages/apps/Settings" name="packages_apps_settings" remote="philippe12" revision="kitkat" />
+  <project path="system/netd" name="system_netd" remote="philippe12" revision="kitkat" groups="pdk" />
+  <project path="system/vold" name="system_vold" remote="philippe12" revision="kitkat" groups="pdk" />
 
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
@@ -423,9 +425,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
