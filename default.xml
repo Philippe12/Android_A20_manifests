@@ -14,14 +14,12 @@
   </project>
 
   <project path="device/softwinner" name="device_softwinner" groups="pdk" remote="philippe12" revision="nougat" />
-  <project path="external/chromium_org" name="external_chromium_org" groups="pdk" remote="philippe12" revision="nougat" />
   <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="philippe12" revision="nougat" />
   <project path="system/core" name="system_core" groups="pdk" remote="philippe12" revision="nougat" />
   <project path="frameworks/base" name="frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="philippe12" revision="nougat" />
   <project path="packages/apps/Settings" name="packages_apps_settings" remote="philippe12" revision="nougat" />
   <project path="system/netd" name="system_netd" remote="philippe12" revision="nougat" groups="pdk" />
   <project path="system/vold" name="system_vold" remote="philippe12" revision="nougat" groups="pdk" />
-  <project path="external/mtd-utils" name="android_external_mtd-utils" groups="pdk" remote="philippe12" revision="nougat" />
   <project path="kernel" name="linux-sunxi" groups="pdk" remote="philippe12" revision="master" />
 
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
