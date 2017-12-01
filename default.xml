@@ -20,7 +20,7 @@
   <project path="packages/apps/Settings" name="packages_apps_settings" remote="philippe12" revision="nougat" />
   <project path="system/netd" name="system_netd" remote="philippe12" revision="nougat" groups="pdk" />
   <project path="system/vold" name="system_vold" remote="philippe12" revision="nougat" groups="pdk" />
-  <project path="kernel" name="linux-sunxi" groups="pdk" remote="philippe12" revision="master" />
+  <project path="kernel" name="linux-sunxi" groups="pdk" remote="philippe12" revision="sun7i-A20-lvds" />
 
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
   <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" />
